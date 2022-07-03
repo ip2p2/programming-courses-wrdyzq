@@ -7,4 +7,4 @@ let xvp2: number;
 xvp1 = 555;
 xvp2 = 201;
 
-console.log('xvp1'
+console.log('xvp1');
